@@ -1,0 +1,7 @@
+
+numpy
+pandas
+tqdm
+tensorboardX>=1.14
+scipy
+clean-fid
